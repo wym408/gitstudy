@@ -1,1 +1,1 @@
-gitstudy
+gitstudy  day 
