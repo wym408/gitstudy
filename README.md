@@ -1,1 +1,1 @@
-gitstudy  day 
+gitstudy good
